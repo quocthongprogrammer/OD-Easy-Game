@@ -1,0 +1,10 @@
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\bin\Debug\Link Animation.exe.config
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\bin\Debug\Link Animation.exe
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\bin\Debug\Link Animation.pdb
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.csproj.AssemblyReference.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.csproj.SuggestedBindingRedirects.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link_Animation.Properties.Resources.resources
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.csproj.GenerateResource.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.csproj.CoreCompileInputs.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.exe
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Link Animation\obj\Debug\Link Animation.pdb

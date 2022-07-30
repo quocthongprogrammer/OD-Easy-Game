@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tetris
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(Data.GameHandle.GameForm);
+            Data.GameHandle.GameForm.Load += GameForm_Load;
+        }
+
+        private static void GameForm_Load(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

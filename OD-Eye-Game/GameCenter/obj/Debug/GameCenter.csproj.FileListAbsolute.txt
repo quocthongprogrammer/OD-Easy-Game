@@ -1,0 +1,11 @@
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\bin\Debug\GameCenter.dll
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\bin\Debug\GameCenter.pdb
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.csproj.AssemblyReference.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.Settings.resources
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.csproj.GenerateResource.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.dll
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.pdb
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\bin\Debug\NQTGame.dll
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\bin\Debug\NQTGame.pdb
+D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\GameCenter\obj\Debug\GameCenter.csproj.CopyComplete
