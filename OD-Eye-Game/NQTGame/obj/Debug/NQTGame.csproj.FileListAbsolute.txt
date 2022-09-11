@@ -1,6 +1,0 @@
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\bin\Debug\NQTGame.dll
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\bin\Debug\NQTGame.pdb
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\obj\Debug\NQTGame.csproj.AssemblyReference.cache
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\obj\Debug\NQTGame.csproj.CoreCompileInputs.cache
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\obj\Debug\NQTGame.dll
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\NQTGame\obj\Debug\NQTGame.pdb

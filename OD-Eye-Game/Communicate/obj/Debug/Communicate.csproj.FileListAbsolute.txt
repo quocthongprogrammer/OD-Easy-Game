@@ -1,6 +1,0 @@
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\bin\Debug\Communicate.dll
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\bin\Debug\Communicate.pdb
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\obj\Debug\Communicate.csproj.AssemblyReference.cache
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\obj\Debug\Communicate.csproj.CoreCompileInputs.cache
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\obj\Debug\Communicate.dll
-D:\SourceCode\OD-Eye\OD-Easy-Game\OD-Eye-Game\Communicate\obj\Debug\Communicate.pdb
